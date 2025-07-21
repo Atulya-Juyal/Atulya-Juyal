@@ -1,12 +1,7 @@
 <h1 align="center">Hi there, I'm Atulya Juyal 👋</h1>
 <h3 align="center">A passionate developer building projects that solve real-world problems.</h3>
 
-<p align="center">
-  <a href="https://github.com/Atulya-Juyal">
-    <img src="https://github-readme-stats.vercel.app/api?username=Atulya-Juyal&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Atulya's GitHub stats" />
-  </a>
-</p>
-
+---
 ---
 
 I'm a versatile software developer with a strong foundation in C++ and a keen interest in exploring the full stack of technology. My journey has taken me from competitive programming and Data Structures to building intelligent systems with Deep Learning and creating practical IoT solutions. I thrive on turning complex challenges into functional, efficient code.
@@ -17,6 +12,7 @@ I'm a versatile software developer with a strong foundation in C++ and a keen in
 - 💬 Ask me about **C++, Python, Data Structures, Algorithms, and IoT**.
 - 📫 How to reach me: **[Your Email Address]** or connect on [LinkedIn](https://www.linkedin.com/in/atulya-juyal-86a1a528a/).
 
+---
 ---
 
 ## 🛠️ My Tech Stack
@@ -63,6 +59,7 @@ Here are some of the technologies I've been working with recently:
 </table>
 
 ---
+---
 
 ## 🚀 My Featured Projects
 
@@ -91,6 +88,7 @@ Here are some of the projects I'm most proud of.
   </tr>
 </table>
 
+---
 ---
 
 <p align="center">
