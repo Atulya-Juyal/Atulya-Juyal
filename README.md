@@ -9,7 +9,7 @@ I'm a versatile software developer with a strong foundation in C++ and a keen in
 - 🔭 I’m currently working on expanding my skills in machine learning and full-stack web development.
 - 🌱 I’m constantly learning about new technologies and best practices in software engineering.
 - 👯 I’m looking to collaborate on open-source projects related to AI, IoT, or developer tools.
-- 💬 Ask me about **C++, Python, Data Structures, Algorithms, and IoT**.
+- 💬 Ask me about **JavaScript, C++, Python, Data Structures, Algorithms, and IoT**.
 - 📫 How to reach me: **[Your Email Address]** or connect on [LinkedIn](https://www.linkedin.com/in/atulya-juyal-86a1a528a/).
 
 ---
