@@ -91,7 +91,7 @@ Here are some of the projects I'm most proud of.
 ---
 ---
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Atulya_Juyal&theme=light&border=no-border&animated=false" width=600>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Atulya_Juyal&theme=light&border=no-border&animated=false" width=400>
 
 ---
 ---
