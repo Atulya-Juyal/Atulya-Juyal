@@ -91,6 +91,11 @@ Here are some of the projects I'm most proud of.
 ---
 ---
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Atulya_Juyal&theme=light&border=no-border&animated=false" width=700>
+
+---
+---
+
 <p align="center">
   <a href="https://www.linkedin.com/in/atulya-juyal-86a1a528a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/Atulya_Juyal/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
